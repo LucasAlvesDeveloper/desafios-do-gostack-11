@@ -9,4 +9,4 @@
 
 ## 📝 Sobre
 
-Pasta com os arquivos do desafio 2.
+Primeiro projeto em React desenvolvido no bootcamp.
